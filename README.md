@@ -1,4 +1,4 @@
-# Gemini
+
 
 この研修資料用のGitHub README案を作成しました：
 
